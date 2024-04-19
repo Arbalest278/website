@@ -1,0 +1,3 @@
+[submodule "shop/SpaceGame"]
+	path = shop/SpaceGame
+	url = https://github.com/Arbalest278/SpaceGame.git
