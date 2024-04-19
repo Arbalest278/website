@@ -1,0 +1,141 @@
+#filters {
+  padding: 6px;
+  border-bottom: 4px solid #919191;
+  border-left: 4px solid #919191;
+  border-right: 4px solid #919191;
+}
+.type2{
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin-bottom: 10px;
+}
+.price-input {
+  float: left;
+}
+.input-text {
+  width: 150px;
+}
+#goods {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.single-goods {
+  background-color: #232323;
+  border-top: 4px solid #919191;
+  border-bottom: 4px solid #919191;
+  border-radius: 10%;
+  width: 300px;
+  height: 450px;
+  float: left;
+  text-align: center;
+  margin: 10px;
+  color: white;
+  padding: 10px;
+}
+.single-goods img {
+
+  border: 4px solid white;
+}
+.bar {
+  background-color: #232323;
+  color: white;
+  padding: 0 10px 0 10px;
+  border: 4px solid #919191;
+}
+.bar-content {
+  background-color: #232323;
+  color: white;
+  width: 100%;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  padding: 10px 0;
+}
+
+.bar-left {
+  display: flex;
+  gap: 10px;
+}
+.bar-right {
+  display: flex;
+  gap: 10px;
+  padding-right: 10px;
+}
+body {
+  background-color: #002325;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin: 0;
+  box-sizing: border-box;
+}
+.logotip{
+  font-size: 20px;
+}
+.up{
+  background-color: #002325;
+  color: white;
+}
+
+.batton
+{
+  position: relative;
+  transform: translate(0%, -0%);
+  width: auto;
+  height: 20px;
+  background: #232323;
+  text-decoration: none;
+  text-transform: uppercase;
+  text-align: center;
+  line-height: 20px;
+  color: white;
+  font-size: 10px;
+  padding: 4px;
+  font-family: verdana;
+  letter-spacing: 4px;
+}
+
+.batton:before,
+.batton:after,
+.batton span:before,
+.batton span:after
+{
+    content: '';
+    position: absolute;
+    width: 5px;
+    height: 5px;
+    background: white;
+    transition: 1s;
+    mix-blend-mode: hue;
+}
+
+.batton:before
+{
+    top: -2px;
+    left: -2px
+}
+.batton:after
+{
+    top: -2px;
+    right: -2px;
+}
+.batton span:before
+{
+    bottom: -2px;
+    left: -2px
+}
+.batton span:after
+{
+    bottom: -2px;
+    right: -2px
+}
+
+.batton:hover:before,
+.batton:hover:after,
+.batton:hover span:before,
+.batton:hover span:after
+{
+    width: calc( 90px/2 );
+    height: calc( 25px/2 )
+}

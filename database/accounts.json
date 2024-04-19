@@ -1,0 +1,29 @@
+[
+    {
+        "surname": "Гура",
+        "name": "Владислав",
+        "firstname": "Андреевич",
+        "email": "arba@gmail.com",
+        "login": "Arbalest",
+        "password": "123456",
+        "phone": "89991112344"
+    },
+    {
+        "surname": "Гура",
+        "name": "Владислав",
+        "firstname": "Андреевич",
+        "email": "arba@gmail.com",
+        "login": "Arba",
+        "password": "12345",
+        "phone": "89991112344"
+    },
+    {
+        "surname": "Телятник",
+        "name": "Снежана",
+        "firstname": "Андреевна",
+        "email": "arba@gmail.com",
+        "login": "Yoki",
+        "password": "12345",
+        "phone": "89991112344"
+    }      
+]

@@ -1,0 +1,15 @@
+.text{
+  color: white;
+  font-size: 50px;
+}
+
+#prof_form{
+  border-left: 4px solid #919191;
+  border-right: 4px solid #919191;
+  padding: 10px;
+}
+#sell{
+  border-left: 4px solid #919191;
+  border-right: 4px solid #919191;
+  padding: 10px;
+}

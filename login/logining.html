@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style_log.css" />
+    <title>Вход или регистрация</title>
+    <script src="logining.js" defer></script>
+</head>
+<body>
+    <!--Контейнер-->
+    <article class="container">
+
+        <!--Внутренний блок-->
+        <div class="block">
+            <section class="block__item block-item">
+                <h2 class="block-item__title">У вас уже есть аккаунт?</h2>
+                <button class="block-item__btn signin-btn">Войти</button>
+            </section>
+            <section class="block__item block-item">
+                <h2 class="block-item__title">У вас нет аккаунта?</h2>
+                <button class="block-item__btn signup-btn">Зарегистрироваться</button>
+            </section>
+        </div>
+
+        <!--Блок формы-->
+        <div class="form-box">
+
+            <!--Форма авторизации-->
+            <form action="#" class="form form-signin" id="auth_form">
+                <h3>Вход</h3>
+                <p>
+                    <input type="text" class="form-input" name="login" placeholder="Логин">
+                </p>
+                <p>
+                    <input type="password" required class="form-input" name="password" placeholder="Пароль">
+                </p>
+                <button class="form-btn" type="submit">Войти</button>
+            </form>
+
+            <!--Форма регистрации-->
+            <form action="#" class="form form-signup" id="reg_form">
+                <h3>Регистрация</h3>
+                <div class="form-block">
+                    <p>
+                        <input type="text" class="form-input" name="login" placeholder="Логин">
+                    </p>
+                    <p>
+                        <input type="text" class="form-input" name="surname" placeholder="Фамилия">
+                    </p>
+                </div>
+                <div class="form-block">
+                    <p>
+                        <input type="text" class="form-input" name="name" placeholder="Имя">
+                    </p>
+                    <p>
+                        <input type="text" class="form-input" name="firstname" placeholder="Отчество">
+                    </p>
+                </div>
+                <div class="form-block">
+                    <p>
+                        <input type="email" required class="form-input" name="email" placeholder="Почта">
+                    </p>
+                    <p>
+                        <input type="tel" class="form-input" name="phone" placeholder="Телефон">
+                    </p>
+                </div>
+                <div class="form-block">
+                    <p>
+                        <input type="password" required class="form-input" name="password" placeholder="Пароль">
+                    </p>
+                    <p>
+                        <input type="password" required class="form-input" name="double_password" placeholder="Повторите пароль">
+                    </p>
+                </div>
+                
+                <button class="form-btn form-btn-signup" type="submit">Регистрация</button>
+            </form>
+        </div>
+    </article>
+</body>
+</html>

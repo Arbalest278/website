@@ -1,0 +1,52 @@
+[
+    {
+      "name" : "Скорпион",
+      "cost" : 1000,
+      "organization" : "ArbalestInc",
+      "image" : "https://cs9.pikabu.ru/post_img/big/2016/09/13/11/1473792563126591788.jpg",
+      "description" : "Быстрый, маневренный транспортный корабль, оснащенный средней броней и вооружением.",
+      "dataid" : "0",
+      "quantity" : 1,
+      "type": "Корвет"
+    },
+    {
+      "name" : "Акула",
+      "cost" : 1200,
+      "organization" : "Pirate",
+      "image" : "https://naked-science.ru/wp-content/uploads/2016/04/article_dorje_01.jpg",
+      "description" : "Быстрый, юркий истребитель, оснащенный средней броней и вооружением.",
+      "dataid" : "1",
+      "quantity" : 1,
+      "type": "Корвет"
+    },
+    {
+      "name" : "Орион",
+      "cost" : 1700,
+      "organization" : "NASA",
+      "image" : "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoHCBIVFRgVEhUZGRgYGRgYGBkYGBgYGBoYGBgZGhgYGRgdIS4lHB4rIRgYJjgmKy8xNTU1GiQ7QDs0Py40NTEBDAwMEA8QGhISHjEhISQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDE0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NP/AABEIAKgBLAMBIgACEQEDEQH/xAAcAAABBQEBAQAAAAAAAAAAAAAAAQIDBAUGBwj/xABAEAACAQICBgcFBgUEAgMAAAABAgADEQQhBRIxQVFhBiIycYGRoQcTQrHBFFJictHwI4KS4fEVM6KyU8IWQ0T/xAAYAQEBAQEBAAAAAAAAAAAAAAAAAQIDBP/EACIRAQEBAAIDAQABBQAAAAAAAAABEQISIUFRMXEDEyIyYf/aAAwDAQACEQMRAD8A8ZhCEAhCEBbRIQgEIQlBHq5BBBsRmCMiDyjIQPaejGna+Nw41GVKiWSq7AOb/eVMhdhnc3F75ZZ7eF0dTpktm7ntVHszsOGtuG3IZTxvohpw4PEByT7turVAv2D8QA3qc/Mb57eXBAINwQCCNhB2ETpxus15t7TtB2IxdMZGy1bDfsR/HJT3LPOp9DYzDJVR6bi6OpVhyI9DznhOmtFvhqz0X2qcj95TmrDvEzyntYz4QhICEW0UCAkItooEYG2haOtFtGGmWhaPtC0YmmWhaPtC0YaZaJH2haMXTIWkoUb4wxgaYRbRICRYQkCGEIsKSEIQCEISAhCEAhCEoIQhAIQhAJ6r7NdPe8pnDVD16Yul/ip/d71J8iOE8ql3RmOehVStTNmRtYc9xB5EXHjLLiV9A3nGe0fQfvqP2imvXojrW2tT2t/Tt7i038Npyi9FKykkOAVRRrOWvYpqjeDkTsG8xyYapV62I6qbqIsR31G+I8hYDntm75ZeCiKBN/phoQ4XEMqj+G/Wpn8JOa96nLutxmEJnGiWjtU2vu+v7MUCKFlwNCxQseFjwkuJqK0XVkwpxwSXE1X1Iaks+7h7uMNVtWJaWTTiGnGGqxWKyEbZY1LSNlkw1CREIkhWIRJgjIiWjyI20mNGxI4iIZAkSLCAkW8SEgIQhaRRCEIBCFoWlBC0WFoBEi2haXEEItoWjB2ns50wtKsaFS2rUyRj8L7lvuDbO+3Geqgz56QkEEXBGYIyII2EGez9E9NfasOrH/cSyVB+IbG7mGfmN01A7phoUYvDsqj+InWp8dYDNe5hl324TxcLPoVDPLPaHoL3Nb36DqViSeC1NrD+btf1So48CSBYKkkVJqRNAWdPofoNpDEAMtLUQ7HrHUBHJbFz36tp2HQfomlBVxGJQNWNmVGFxSG423vz+HYM7mdB0h0pV6mHww1q9Y6qcgdrE7ha5J3ASb8MedaQ6MYXDH3dTEPXrHL3eHRVAJ3F31ix5BZNT6D4111lwThfxuqtbmpZTfwnr3RfonRwa61g9dh16pF2JO0Lfsr8986SZvP4vV8043QFSmbVKbofxC6+Y/UyhVwTLtG3Ydx7jPpzEYOnUFnUG/ETmNJdBMNUB931L7vhvxtuMs5z2l4vBvsx4RKlBQOc9D0t0HxVG5VNdeKZnxE5DFYNgSCCDvByM6TL+MXYw3pyFkmlUpGVnpmTF1SZZGyy09MyJkMli6rkRpEmZZGVmbGtMMaZIVjSJLFMiRxES0mBIkdaJaTAXi3EaYRofcRbiRxY0w+4hcSOEdjEtxF1hIYCXsYm1hFDCQRRL2TE4YQDCQRRL3MWAwm50V039mrqxPUfqVB+EnJu9Tn3X4znBHTXcx79i9I0qNM1arBUAvrbb32BfvE7gJ5z0q6UPiUVNTUpu2uiHtaidVHY8WOvlsAUbb3nMtprEsqUy91pjVpgojFQQBYErfcJ3OC0IcTSp1ayJcABBUZy2qBmzattYXAsCbbchnJOWGOHojWYKilmOxVBZj3AZzreivR+p75alemUROuA9gWcdgFO0BfPMDszo6ej1RCocgWNkphaKE8wgv6ytRrBMggpnMkA35AliTrd95vvazmOqOKG0nLaZS6PY5FqVMS/bclEv8FNT1rcyRbuTnMTFYzqNntFvPI/OYi6S1eqDkth5TN+D2TD9IVO0y7gdLK4JI1cyBcqbgbGGqTkeec8Zo6YI3zSwWnNUBVsoGQAyAHITN4xrs9lWqp2ER88ro9KCPil+j0vI+KZ6U13WkMQ6IWSmXI+EbbfPyBnI43GaPxPVxNAqxy1gOsOOeR9I+l00A22Msf/ACjCVLe8RW/MFb5xPHovlxPSLodQRPfYfFIUJIVKhIYkWuAVF8rjaMri84TFUSnaW19huCD3ETudMYunWxLuygUkB1VA1RqrsFhsvmTvuZg6RLOrlqaIl+x1UcbLZZHWzByudu4G3fjyueXO8Y5d2WQuwi46lqNa91Iup4rs87gjwlRmlvM6pWYSNmEhYxpMxebXVMWEYWEhJiGS81xKWEQsJCYkl5r1T6wiawkMSZ7mCEITm0IRYkAhCEoIRQJItOBGBHBDLC05IFErOq60o9aMmvE94OI85TSCjH08OCQLgXIFzsFza55QQluyCe4X+Ue6OttdWW+zWUrccRfbCOk0DoSk1e5BZFLW1ijjqrtups+bLuHdO1xOJF7LsGQHADZOL0HVZKaBTbWLM1t+dh6KJrviif3+/lN4a0nr85n1QSxMhNdpbQZDumuMZtUsUG1QOJ/9SfpOXeqbnvPznY4oZL+YfIici1MXI5n0Mcv0haWJttkr4/hKjpI3p/vxjReGPPGL/qJ4zM92270lvDaJxL9ik5/lI385RY/1Fr5XivpCoubBgOJBA9ZoJoLFrbUoNszIqIAT/Xflsmxo/QWI1bV3SmhvcFg7WO63Z9T3RgofaOu4OYBzH8y3HkTL+l9KVcUo94E12smvq6hZrAqWtkbWIvbeBuyysSy0q7AHWFza+xttvOKzVFZKdixazoSbApqlhY/vOSrGNpVP4YuLMjZjgHurf8lX1mEzTd02X/iFxYsELDgWfWAHhbznPkzNrWFJjSYhMSZ1REMLxsgIQhICJCEgIR1oWlw10lPoJpRtmFbxZF+bCXqPsz0m21EX81Rfpee2aLqh6FJ/vIjeagy3NdYmvFKPspxx7VSgv8zk/wDSXqXsiq/HikHcjN82E9cXugI6w15Vh/ZbT96aT4ljZFfWWmFvdipFiTssPOa9H2V4MdqtXPii/wDrOsxN1xlE7npV0PerUnX015piXrDXG0vZto0bVqN31WH/AFtLlHoHoxf/AMwP53qN82nS2gBGI5jRnRrABqy/ZaJKVbDWpq1lZEdRn+abCaMwydmjTXuRB9I3D5Ymsv3kov49emfRFl8xgg92BsAHcAJ557VcPrCjxPvNU8XQKwX+ZWe3MLPR2HK/75zjPaZh9ahRf/x11c/kVHLfIRg4PReSKpBuoANhxF5o6zbl8z+kraCxQqJrEDWvZ8hmwAzA2C4tsA3zY1OZnScU1nlKnIfvnaa+HXqKTwF+8ZfSVjTHCXcKOrbgfQ5/rNzizagxSEqdUXsVPkRf0mYnRmo7Fw6hWJYXvsbdabzJfLiLecrYXFOqlCc1JHhujrLfKb4V6XRSkP8AcqMx/CLDdL9HQuDTagbf1zf0HhKmNquy2DldmYOe0H6WjaNfXAK5g7JrrE1Li8bRoMQiC4sRYKAOGZBJO/K0u1NK5dUXG0XJPpslbDdHftL3Y2IUZMSARfLYLn0nRnogFpmz5gWUDYSBkt7Xz2Xkt48f1fN/HMVcdVOSmw5ZfKQhGPaJ7ppYbCF8kHL/ADvkOCxTUGd8VRVEU6iX1i7vcZIMgyi+Z2ZjOW8pCRQxuhr6tR0cJcIzKuuwJ7Nhvztlt9JTXSGISk1KkEbMgllOul9oRjZlU7xYHdlOmXT1euGXVRKR6psNYFd6ksM+4AD5zkek1TD0LgFi7C6prXsDvc7QvBdp5DOcuU9tz4wOkFa2ql9Zsmc3BzzCjLLZ9JiXkjsWJZjcnaYy0542beJHWiWkwNhHWiWk6hsI60LRgbCLC0mCSEjvFvNdkx9E9B64fAYZr7KYU7s06p+U3xacV7KMUG0eAT/t1HU3Oy5Di/g06PFdIMHTyq4mip4Gol/K95rRpg8os5TE+0PRaXH2guR9ym7euqB6zKxHtWwYuKdCs/M6iA/8ifSTYjrdLgiphXG6sVb8r0nX/tqTS8Z5DpT2n1KgCphkTVdHUs7ObobjIKJn4n2l6TfsvTT8lME/8y0bDHt1ojWGZsOZy9Z89YrpdpGp28XV/kbU/wClpk4nFVHzqO7fmZm+ZMaPf8ZprCUsSrPiKSg0nViaiZFXUqCL/iaU8T0/0WmX2jXP4EdvXVt6zwW8C0uwex4r2p4MX1KNZ+ZCID5sT6TlOkntAbFU3pLQCBxbWL67AXzy1AMxccr5Thi8QvLOUXG/0ZxYWpqE5PkPzjZ55jynaot55WtQjMGxGwjaDxE9A6O6aSuuq5AqKOsNmsPvr9RunTjzn4xeLX1Y+gbN35fpJVp3zEjr0H1TqZHcbbOc3rOLapMzSdLUcPeyt2jw3X8Db+oy9TxAC3ci4yYnLOVsdpDDujIzg3Btq9Y3tbYItTENWth0Fyxc7ycl843B45XBFKwAysBa3dMfR3R6rUYGs5VBkBtbV2Cw+HLjPTaXR/Dth0XDIFanmBvf7wc7yeMzf6n/ABerK6O4Us97kWGZ/Q+U6TpXpgYelq6p1nXI6pIAOWW5nN7BAbk8BcjPw9OqrI4GqgNy11RaYA+6e1wlnFaUR6yvrKdXsl76iHeyJubmfSY5f5VvjesZGg9G6QIFZ6Kgu5Y09cK+oc7uSLKx5bc8ozpEqVQrVKYGrcIRYgapIz1SQ1mvtm5pHTw1WSi99baxHXAPaOsDa9thtlznmPTDpXrAUcKQAoIaopOw5BEO4WA6w2jZxicr+8oZPSvpfTq4YNTpPr1j2mNilPgAvZLD7uwb7nIcTUqFiWYkkkkkm5JOZJJ2mMaJYzN5ash14XiBDHCkY1cNvEkgoGSDDHhJqK8S8uLhDwki4M8IGfaLqnhNNcCeEkXR54QMj3Zi+7M210ceEk/048JMXXNQhCcmjtY2tc2223X42jYWhaA5TJkaQhZIglxKkhHoI/UlxNQasS0sCnDUlw1WKxCstGnGlIw1VIiaste6jGpyYagj6NVkYMpKspuCNoMX3Z4RRQMeVdnojSQIBxDuhsLgFs72IewFrEbtufMSNulWF/8AFWY/idR+s5nUqEKCzELcrnsva9v6V8hFXBEzXbkmR0a9JKD5GiEW4uXqM5sPwhNueR/vOkwlC4BppcHYVQ5+npPP00ceE9o6GGnVw5ZUCMB11W9tcAC4zyBAFvLdN8eV9pZ8ZeG0fWI7G64uQCeQBljRHSGmmtTqBkqZgq5sD3HhOs/045FTfvnO9IKWCdjTxStrgAgqjawuMirgZ/5lvn8qfyp6R0m7AnWB4AONXlmLiYWJ0tSQEki+1gmd2355eZtIcZoSh/8ATiK9uD00YD+YsDK9HowzG5137xl5D9Y3l8TwzsfpapXuqgpS+6Cb1D+M7+7YJkvhGJud87yl0aqbkPoJZTopUO0Ad5/STryv6bHmp0cTukqaLPCemp0RO9lHcCZap9E03sfAAS/217PLk0SeEnTRB4T1VOjNEbdY+I+gllNAUB8F+8ky9Ds8oTQ/KWE0PynqyaMor8C/0gydMKg2KB3AS9YnavKqehGOxCe4GW6fR6odiN/SZ6d7scPSKKfKXrxNrzmn0Yq/c8yB9ZZTorU4KPGd9q8ol+UZE2uLTom+8r6n6ScdFPxj+n+867yESw+8PWM4/Dy+YQI4JHKJIqTzyOlpgSOCSYUzHCiZepqAJFCy0uFMmTAnhLiapqZKpl9NGnhLNLRbcJcRlhCY4UTN+lok8Jeo6HJ3S9U1yq4UyZMATunbYfo5UOxD5W+c0qHRSpvAHef0l61Neepo08JIuiCd09PodEx8TeQvL9LoxSG0MfSXqdnlKaFPCWaegjwnrCaFpL8A8c5aTBqOyoHcI68TtXldDo1UOxG/pM0aHROofgA7yJ6N7oR4CDaPpL14m1w1HokfiZR3XM39B6IOHYsrEhhquAuRG494/WbPvV+FRJFrH9iLnwXDYC98gL33W43mXicEtU+8qKCLAICoJCZnWPeTfkJLRqF2CG2oLs3FhcWS3C+3lYTQJnP/AFrp+xlJhKa7FA8APkJIKY4D998Zim1Gtu2g8pXNc7p121zxd92BtMTVWUTXP3soe94tCrmUXXHCZrV14+WcRsUAbQNTXHKNLjhM5sWRtBPja0a2NG63dcn6SYrSNVeEaakzji24ARPtTfeHhYQL5J/YjCzfu0zXxZzzN+G6Rfaidt/K8pjWLHe3rEy3kTKNbkZIgc7E8SQBIuNEso3w96JTGre1R0XkGJPpea+Ew+HKg+8+Y9JKPnangDwlylo08J3OG6MVD8Fu8gTVw3RX7zDwF/UxOFZvJ55T0UeEuU9D8p6TQ6O0V23Pj+k0KOjaS7EXy/Wa6xnXmmH0EzbFJ7gTNXDdFqh+C3fYT0KnSG4SZaYOyw9YyQ8uKw/RI/EwHcCZp4fovTG258hOmCIO0SfQQ9+g7K+cnb5Fxl0NA0V+AeNz85fTR6KMgB3WEkbGDdYcgv1kGs5zVSedsvSNpkWEo0+R8Y0ug3eQHzkAw9RhrEhRzyjXdEzd1Pp62kVMcSdwjWqneSJRq6XQHqBB4XPnaZ2I0iTvmpxrOxtGvz9Y9cSCLXHmZzLYviTGfa+V+8n6TXU7OiqYgDIsL8hKlTGrxmQuO4rfla3rtjTVDXshvx1j8rSdcN1sJigdh+V/KSVa5tkwHftnN1lt48CP1kJqkbGYdxjIeXQJi2QhgSdU35dx5TpaGIV1V17LC/8AbwzE89pYsqbkk8zc/vzm7oTTA1itTqoQSGIsoIGdzuuPUDjM8uPtrjWxpYayhVBLk9QDl2ieVvW3GcwcfYc+Fs51mGUm7sCC2wHaqfCO87TzNt0x9NYEK2uFYhyTZRlrbTfv2+czxvpbGUMWWBub8s7/AKRFxRt1tnA5j5yVKbXH8G3fl8zeOWmx7KKvcLny3zpqYh+0XFr58gbfSAxbbCAee/zl+nhSdq+ZUHysI06PTa72HLVHllnJq5FD3hP+ZKoe1xstuufQCXFwtFASXvwzA+tzFpaQpqbhkAA33b6SKzSz8SPC0emFqHPVY87fWXcTpOn8NiTwW0rJjXJzYnvHL8plDDSZdot3mPp0yc+HK/1kqPrjPWHcP77JaFMKusGt5lj4XHzkXVN8LV3IbbiLGRJhajG3W5Xv8pZTEVwTZlI221WHqAYhxTP1X6oJ+HWJPm1vSE1LTwjp2mTxzMtpi0UWYG+02QW+cqtgVA/hu9/NRnsIDd0noaKa3Wvf8pgaC4c/eHhePNFB2m+UIRtcyWQcPEwNVR2Rf0hCUMNc8D4Zxj16hyW55WMISKjIqnb1R+IgekqHEKp69QD8oLn9+MWEsRDVx1JR1GdjzAUeWcgbS1TYhIHLP0zhCbxFd8bVba7Hlc/KV8yczbviwgONNbXL58AD841qQvYX8TlCEVchyUVJtfPz8rSUYYXy1j3C2fiRCEzW8h6Umv1SL99zt2FtnlHVMHUObXI/CD6CEJlUP2amouaTtzckDwAF7+Mjasi9mil+YJ87teEISTyYNIONiIB+X+8fRxFZwbFQBtuBb1hCUrrtG4r3iBiQWGTWNxe20cjtk2JTWRhe2Rs33ecSE5+1cUmPOZLuSNlmIHPM7pEK+IJurt4Dd4whOqE99UFi7tt78+43EjZc+qzeZ+hhCRZColtuffs9Y+/IDwEISKerj/EVcQB8F/A/2hCRS/bhs1F8Rl844Y2rsUpbgEX5hCT5whNM1MuIqi3ZPIAeqm3qJapYqpfVYao7gLeFokJEOqit8Di27rW8bWylb7RjRlrN4MbQhA//2Q==",
+      "description" : "Пиратский корабль являющийся ядром мощного построения, несет а борту 34 истребителя Акула",
+      "dataid" : "2",
+      "quantity" : 1,
+      "type": "Авианосец"
+    },
+    {
+      "name" : "Ишимура",
+      "cost" : 100000,
+      "organization" : "ArbalestInc",
+      "image" : "https://fbi.cults3d.com/uploaders/20415836/photo-file/6cdf0041-888d-4974-bc74-28cca772ae5d/PXL_20230416_235042702-PhotoRoom.png",
+      "description" : "",
+      "dataid" : "3",
+      "quantity" : 1,
+      "type": "Планетарный потрошитель"
+    },
+    {
+      "name" : "Аврора",
+      "cost" : 2000,
+      "organization" : "Altera",
+      "image" : "https://pm1.aminoapps.com/6931/257bc424e08e51a59cc2cec8863af989ec814bd1r1-1024-512v2_uhq.jpg",
+      "description" : "Гигантское трансгосударство «Альтерра» запускает «Аврору» — космический корабль для установки фазовых врат",
+      "dataid" : "4",
+      "quantity" : 1,
+      "type": "Супер дредноут"
+    }
+  ]
